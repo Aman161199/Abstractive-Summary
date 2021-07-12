@@ -11,7 +11,7 @@ Inshorts is a news service that provides short summaries of news from around the
 
 ### Model:
 
-![Architecture](mlt.png)
+![Architecture](model.png)
 
 ### Examples of result:
 
