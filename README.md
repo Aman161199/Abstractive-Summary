@@ -15,12 +15,12 @@ Inshorts is a news service that provides short summaries of news from around the
 
 ### Examples of result:
 
-**News Text**
+**News Text**:
 ```qualcomm monday announced chinese court order banning import sale apple iphone iphone models china due software patent violations court found apple violated two qualcomm software patents around resizing photographs managing applications touchscreen apple however said iphones remain sale china```
 
-**Model Prdicted Summary**
+**Model Prdicted Summary**:
 ``` qualcomm may face iphone production report```
 
-**Actual Summary**
+**Actual Summary**:
 ```qualcomm wins import ban apple iphones china ```
 
